@@ -3,7 +3,7 @@
 <p align="center">
   💡 Electrical & Electronics Engineering Graduate <br/>
   💻 Passionate about Circuit Simulation, MATLAB Coding, and Simulink Modeling <br/>
-  🌱 Currently exploring: Power Electronics, Control Systems & BMS Projects <br/>
+  🌱 Currently exploring: Power Electronics and Circuit Analysis <br/>
   📫 Reach me at: <a href="mailto:priyaselvaraj2431@gmail.com">priyaselvaraj2431@gmail.com</a>
 </p>
 
